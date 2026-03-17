@@ -3,5 +3,4 @@ This pipeline demonstrates a Medallion Architecture workflow in Microsoft Fabric
 
 ## Workflow Overview
 
-![Data Workflow](workflow/Data-Workflow.png)
-
+![Data Workflow](workflow/Data%20Workflow.png)
